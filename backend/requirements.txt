@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-jwt-extended
+python-dotenv
+scikit-learn
+# optional, only if you set ANTHROPIC_API_KEY in .env:
+# anthropic
